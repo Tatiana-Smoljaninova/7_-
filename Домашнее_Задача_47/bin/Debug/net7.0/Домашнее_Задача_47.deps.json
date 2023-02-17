@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Домашнее_Задача_47/1.0.0": {
+        "runtime": {
+          "Домашнее_Задача_47.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Домашнее_Задача_47/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

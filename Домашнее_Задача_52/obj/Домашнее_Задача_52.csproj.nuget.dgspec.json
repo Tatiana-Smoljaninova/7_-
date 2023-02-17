@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Таня_учеба\\Тема Знакомство с языками программирования (дубль 2)\\7_Двумерные массивы\\Задачи лекции_семинары_домашняя\\Домашнее_Задача_52\\Домашнее_Задача_52.csproj": {}
+  },
+  "projects": {
+    "C:\\Таня_учеба\\Тема Знакомство с языками программирования (дубль 2)\\7_Двумерные массивы\\Задачи лекции_семинары_домашняя\\Домашнее_Задача_52\\Домашнее_Задача_52.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Таня_учеба\\Тема Знакомство с языками программирования (дубль 2)\\7_Двумерные массивы\\Задачи лекции_семинары_домашняя\\Домашнее_Задача_52\\Домашнее_Задача_52.csproj",
+        "projectName": "Домашнее_Задача_52",
+        "projectPath": "C:\\Таня_учеба\\Тема Знакомство с языками программирования (дубль 2)\\7_Двумерные массивы\\Задачи лекции_семинары_домашняя\\Домашнее_Задача_52\\Домашнее_Задача_52.csproj",
+        "packagesPath": "C:\\Users\\volod\\.nuget\\packages\\",
+        "outputPath": "C:\\Таня_учеба\\Тема Знакомство с языками программирования (дубль 2)\\7_Двумерные массивы\\Задачи лекции_семинары_домашняя\\Домашнее_Задача_52\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\volod\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
