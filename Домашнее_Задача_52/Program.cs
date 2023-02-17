@@ -18,11 +18,11 @@ for (int i = 0; i < array.GetLength(0); i++)
     Console.WriteLine();
 }
 for (int j = 0; j < array.GetLength(1); j++) 
+{
+    average = 0;
+    for (int i = 0; i < array.GetLength(0); i++)
     {
-        average = 0;
-        for (int i = 0; i < array.GetLength(0); i++)
-        {
-            average = average + array[i,j];
-        }
-        Console.Write($"{average / array.GetLength(0)} ");
+        average = average + array[i,j];
     }
+    Console.Write($"{average / array.GetLength(0)} ");
+}
